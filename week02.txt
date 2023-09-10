@@ -1,0 +1,16 @@
+week01
+- linus command : ls, ls -al, pwd, cd .git, cd .., echo "smth" >> README.md, cat README.md
+- git command : git init,
+		git status
+		git add week01.txt
+		git commit -m "v0"
+		git log 
+		git config --global user.email "you@gmail.com"
+		git config --global user.name "Your name"
+
+		git checkout hashcode 
+		git checkout -
+		git branch -M main
+		git remote add origin https://github.com/Kristinna25/test.git
+		git remote -v  (confirmation)
+		git push -u origin main
